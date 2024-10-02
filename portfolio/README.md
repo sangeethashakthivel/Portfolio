@@ -1,6 +1,5 @@
-# vishnu-siju.github.io
+# sangeethashakthivel
 
 This is my personal portfolio
 
-link on github:   https://vishnusiju.github.io/portfolio/  <br>
-<!-- link on firebase:   https://vishnusiju-portfolio.web.app/ -->
+link on github:   https://github.com/sangeethashakthivel/Portfolio   <br>
